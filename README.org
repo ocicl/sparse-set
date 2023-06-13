@@ -4,7 +4,7 @@ Mirror of https://git.mfiano.net/mfiano/sparse-set
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/mfiano/sparse-set.git   |
-| commit  | {"messa  |
+| commit  | fa88c10  |
 | systems | sparse-set |
 |---------+-------------------------------------------|
 
