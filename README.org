@@ -1,0 +1,10 @@
+* sparse-set
+
+Mirror of https://git.mfiano.net/mfiano/sparse-set
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/sparse-set.git   |
+| commit  | {"messa  |
+| systems | sparse-set |
+|---------+-------------------------------------------|
+
